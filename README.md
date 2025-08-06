@@ -8,13 +8,15 @@ This repo is created for hands-on learning. The best way to understand Git and G
 
 ### 🔧 Installation
 
-1. **Clone the repository**  
+1. **Clone the repository**
+
    ```bash
    git clone https://github.com/SaketV8/learn-git-n-github
    cd learn-git-n-github
    ```
 
-2. **Install dependencies**  
+2. **Install dependencies**
+
    ```bash
    # using bun
    bun install
@@ -23,7 +25,8 @@ This repo is created for hands-on learning. The best way to understand Git and G
    npm i
    ```
 
-3. **Start the dev server**  
+3. **Start the dev server**
+
    ```bash
    # using bun
    bun run dev
@@ -34,4 +37,5 @@ This repo is created for hands-on learning. The best way to understand Git and G
 
 ## Contributor
 
-* [Saket Maurya](https://github.com/saketV8)
+- [Saket Maurya](https://github.com/saketV8)
+- [Mansi yadav](https://github.com/Mansi2007275)
